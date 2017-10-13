@@ -1,0 +1,31 @@
+h1 {
+  color: #CB4B30;
+  text-align: center;
+}
+
+h2 {
+  color: green;
+  font-style: italic;
+  text-align: center;
+}
+
+p {
+  font-family: "Comic Sans Ms";
+  font-weight: normal;
+
+}
+
+ul {
+  line-height: 20px;
+}
+body{
+  background-color: #E7F8D2;
+  display: block;
+  margin-top: inherit;
+
+}
+img{
+  display: block;
+  margin: auto;
+  width: 40%;
+}
