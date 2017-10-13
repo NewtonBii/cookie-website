@@ -24,8 +24,6 @@ There are no bugs at the moment but if you encounter any problems using the appl
 
 Technologiess used include:
 
-* Python
-* JavaScript
 * HTML
 * CSS.
 
