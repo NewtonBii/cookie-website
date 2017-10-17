@@ -9,11 +9,7 @@ This Website gives a great recipe for chocolate chip cookies.
 
 ## Setup/Installation Requirements
 
-* Download link and choose either Mac, Windows or Android Version
-* Sign Up and confirm your credentials
-* Once you sign up you can choose your preferences
-* Wait for a potential match
-* Voila! Your PET is on the way.
+* Go to 
 
 
 ## Known Bugs

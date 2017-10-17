@@ -21,11 +21,56 @@ ul {
 body{
   background-color: #E7F8D2;
   display: block;
-  margin-top: inherit;
+
 
 }
 img{
   display: block;
   margin: auto;
   width: 40%;
+}
+
+.button-first{
+  background-color: #D2DDE0;
+}
+
+.button-second{
+  background-color: #286F82;
+}
+
+.button-third{
+  background-color: #F3D2B6;
+}
+
+.fourth-button{
+  background-color: #99A08D;
+}
+.button-original{
+  background-color: #E7F8D2;
+}
+
+.first-background{
+  background-color: #D2DDE0;
+
+}
+
+.original-background{
+  background-color: #E7F8D2;
+}
+
+.second-background{
+  background-color: #286F82;
+}
+
+.third-background{
+  background-color: #F3D2B6;
+}
+
+.fourth-background{
+  background-color: #99A08D;
+}
+
+button{
+  width: 25;
+  height: 25px;
 }
