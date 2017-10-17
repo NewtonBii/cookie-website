@@ -9,7 +9,7 @@ This Website gives a great recipe for chocolate chip cookies.
 
 ## Setup/Installation Requirements
 
-* Go to 
+* Go to https://newtonbii.github.io/cookie-website/
 
 
 ## Known Bugs
